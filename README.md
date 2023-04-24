@@ -3,7 +3,7 @@
 Istanbul Technical University Logic Circuits Laboratory Course (BLG242E) Verilog Codes | 2022-2023 Spring Term
 
 Teammate:
-:- [@muratbiberoglu] (https://github.com/muratbiberoglu) 
+- [@muratbiberoglu](https://github.com/muratbiberoglu)
   
 ## Topics
 
